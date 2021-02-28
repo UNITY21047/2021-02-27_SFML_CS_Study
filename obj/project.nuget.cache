@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1EnhoqUfJEf5Ivny76sGel13We5pXuvjZ/IZP0BwNyxJU2wIKmR2F5cqJv+0LQQOf5/PyHCRSaBbr/fedjRekA==",
+  "success": true,
+  "projectFilePath": "/media/pup/SPRO/assets/projects/2021-02-27_SFML_CS_Study/2021-02-27_SFML_CS_Study.csproj",
+  "expectedPackageFiles": [
+    "/home/pup/.nuget/packages/csfml/2.5.0/csfml.2.5.0.nupkg.sha512",
+    "/home/pup/.nuget/packages/sfml.audio/2.5.0/sfml.audio.2.5.0.nupkg.sha512",
+    "/home/pup/.nuget/packages/sfml.graphics/2.5.0/sfml.graphics.2.5.0.nupkg.sha512",
+    "/home/pup/.nuget/packages/sfml.net/2.5.0/sfml.net.2.5.0.nupkg.sha512",
+    "/home/pup/.nuget/packages/sfml.system/2.5.0/sfml.system.2.5.0.nupkg.sha512",
+    "/home/pup/.nuget/packages/sfml.window/2.5.0/sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
