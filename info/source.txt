@@ -1,0 +1,12 @@
+This is a console app:
+dotnet new console
+
+Nuget Site:
+https://www.nuget.org/packages/SFML.Net/
+
+Version:
+dotnet add package SFML.Net --version 2.5.0
+
+Examples:
+https://github.com/SFML/SFML.Net/tree/master/examples
+https://github.com/SFML/SFML.Net/tree/master/examples/window
